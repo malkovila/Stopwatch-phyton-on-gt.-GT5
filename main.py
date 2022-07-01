@@ -15,9 +15,3 @@ isStart = False
 startT = 0
 
 
-
-
-
-timer = QtCore.QTimer()
-timer.timeout.connect(timerf)
-timer.start(100)
